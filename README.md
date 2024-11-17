@@ -29,8 +29,8 @@ Turning complex problems into innovative, impactful solutions by blending data, 
 ## 🌐 Cloud Achievements  
 
 🎓 **Google Cloud Skill Badges**:  
-- **[Implement Cloud Security Fundamentals](https://www.credly.com/badges/implement-cloud-security)**  
-- **[Set Up an App Dev Environment on Google Cloud](https://www.credly.com/badges/set-up-app-dev)**  
+- **[Implement Cloud Security Fundamentals](https://www.credly.com/badges/c4cd51d4-6f5b-45ff-8b2b-3d075db4d331)**  
+- **[Set Up an App Dev Environment on Google Cloud](https://www.credly.com/badges/384ad354-56da-456e-bb1a-ec2c1fb9adc7)**  
 - Additional achievements on [Credly](https://www.credly.com/users/himanko-boruah)  
 
 🚀 **Certifications in Progress**: **Associate Cloud Engineer**  
