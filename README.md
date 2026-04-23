@@ -28,7 +28,7 @@ Turning complex problems into innovative solutions and breaking down high-level 
 
 ## 🌟 Featured Projects & Research
 
-### 🏆 [AI Sign Language Translator for Healthcare] (Indian Patent: 202431044356)
+### 🏆 AI Sign Language Translator for Healthcare (Indian Patent: 202431044356)
 - Invented an end-to-end AI-driven diagnostic framework to bridge communication for the hearing-impaired.
 - Integrated Computer Vision and Transformer-based NLP architectures to achieve 98.7% accuracy with a 0.18s inference latency.
 
