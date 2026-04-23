@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Himanko Boruah</h1>  
 
 <p align="center">  
-🚀 AI/ML Engineer | 🌥️ Cloud Enthusiast | 🔓 Open-Source Contributor  
+🚀 Full-Stack Engineer | 🧠 AI/ML Researcher | 🎓 Technical Educator  
 </p>  
 
 ---
@@ -9,78 +9,66 @@
 ## 💡 About Me  
 
 💻 **What I Do**:  
-- Build cutting-edge solutions in **AI/ML**, specializing in **Explainable AI (XAI)**, **Computer Vision**, and **Generative AI**  
-- Design tools for **auto-annotation**, **anomaly detection**, and **cloud automation**  
-- Optimize model interpretability and performance using frameworks like **TensorFlow**, **PyTorch**, and **scikit-learn**  
+- Architect robust, high-scale full-stack applications using **Java**, **Spring Boot**, and **React**.
+- Build cutting-edge solutions in **AI/ML**, specializing in **Computer Vision**, **Generative AI**, and **Explainable AI (XAI)**.  
+- Bridge the gap between industry-standard engineering and classroom learning through project-based edutainment.
 
-🌱 **Currently Learning**:  
-- **Google Cloud Platform (GCP)** services for cloud engineering  
-- Advanced SQL for operational analytics and investigating metric spikes  
+🌱 **Currently Building & Learning**:  
+- Developing **"Fun with Backend"**, an educational curriculum teaching complex backend concepts through real-world system prototypes (like GPay and Video Streaming apps).  
+- Mastering scalable database schemas, payment orchestrators, and secure authentication filters.  
 
-👨‍🎓 **Education**:  
-- **B.Tech in Electronics and Communication Engineering**  
-- **M.Tech in Signal Processing** from **NIT Silchar**  
+👨‍🎓 **Education & Accolades**:  
+- **M.Tech in Communication & Signal Processing** from **NIT Silchar** (CGPA: 8.8)  
+- **B.Tech in Electronics and Communication Engineering** - 🏆 **Inventor & Patent Holder**: Indian Patent No. 202431044356 for an AI-based Sign Language Translation System.
 
 🎯 **Passion**:  
-Turning complex problems into innovative, impactful solutions by blending data, algorithms, and explainability.
+Turning complex problems into innovative solutions and breaking down high-level system design into accessible, high-fidelity technical education.
 
 ---
 
-## 🌐 Cloud Achievements  
+## 🌟 Featured Projects & Research
 
-🎓 **Google Cloud Skill Badges**:  
-- **[Implement Cloud Security Fundamentals](https://www.credly.com/badges/c4cd51d4-6f5b-45ff-8b2b-3d075db4d331)**  
-- **[Set Up an App Dev Environment on Google Cloud](https://www.credly.com/badges/384ad354-56da-456e-bb1a-ec2c1fb9adc7)**  
-- Additional achievements on [Credly](https://www.credly.com/users/himanko-boruah)  
+### 🏆 [AI Sign Language Translator for Healthcare] (Indian Patent: 202431044356)
+- Invented an end-to-end AI-driven diagnostic framework to bridge communication for the hearing-impaired.
+- Integrated Computer Vision and Transformer-based NLP architectures to achieve 98.7% accuracy with a 0.18s inference latency.
 
-🚀 **Certifications in Progress**: **Associate Cloud Engineer**  
-
----
-
-## 🌟 Featured Projects  
+### ⚙️ Full-Stack System Prototypes (In-Development)
+- **Video Streaming Backend:** Architecting a modular streaming platform using Spring Boot and React for advanced system design education.
+- **Payment Orchestrator:** Engineered a GPay-inspired ledger prototype to illustrate distributed systems and consistency to learners.
 
 ### 🖥️ [Auto-Annotation Engine with Florence2](https://github.com/himanko/Auto-Annotation-Engine-with-Florence2)
-- Engineered an auto-annotation tool to streamline the data labeling process.
-- Integrated Florence2 for efficient and scalable annotation workflows. 
+- Engineered an automated pipeline leveraging Microsoft's Florence2 for large-scale image dataset processing.
+- Built a modular annotation engine generating bounding boxes and segmentation masks for 120K+ images, achieving 95%+ consistency. 
 
-### 🔍 [Deep Saliency Analysis](https://github.com/himanko/test-XAI)  
-- Visualized adversarial effects using the **RISE methodology**  
-- Evaluated model interpretability with metrics like **Insertion** and **Deletion**  
-
-### 🚗 [Explainable AI for Stanford Cars](https://github.com/himanko/XAI-ResNet50-Evaluation-on-Stanford-Cars)  
-- Evaluated **ResNet50** on the **Stanford Cars Dataset** using XAI methodologies  
-- Improved model transparency with detailed explainability metrics  
-
-### 🤖 [Chatbot Using Dialogflow](https://github.com/himanko/Chatbot-using-Dialogflow-Google-Assistant)  
-- Created an interactive chatbot leveraging Dialogflow and **Google Assistant**.
-- Implemented natural language understanding to provide accurate and context-aware responses.
-
-### 📈 [Operational Analytics and Metric Spike Investigation]  
-- Detected anomalies in user and business metrics with **advanced SQL techniques**  
-- Delivered actionable insights to optimize performance  
+### 🔍 [Deep Saliency Analysis & XAI](https://github.com/himanko/test-XAI)  
+- Visualized adversarial effects using the **RISE methodology** on ResNet50. 
+- Evaluated model interpretability with metrics like **Insertion** and **Deletion** to optimize transparency.
 
 ---
 
+## 🌐 Cloud & Certifications
+
+🎓 **Google Cloud Skill Badges**:  
+- **[Implement Cloud Security Fundamentals](https://www.credly.com/badges/c4cd51d4-6f5b-45ff-8b2b-3d075db4d331)** - **[Set Up an App Dev Environment on Google Cloud](https://www.credly.com/badges/384ad354-56da-456e-bb1a-ec2c1fb9adc7)** - Additional achievements on [Credly](https://www.credly.com/users/himanko-boruah)  
+
+🚀 **Certifications in Progress**: **Associate Cloud Engineer** ---
 
 ## 🔧 Technologies I Work With  
 
 <p align="left">  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>  
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>  
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/></a>  
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>  
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>  
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
 </p>  
 
 ---
@@ -104,4 +92,4 @@ Turning complex problems into innovative, impactful solutions by blending data, 
   <a href="https://kaggle.com/himanko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/></a>  
 </p>  
 
-💬 Let’s collaborate and build something impactful together! 😊  
+💬 Let’s collaborate and build something impactful together! 😊
